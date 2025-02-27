@@ -1,0 +1,30 @@
+{
+  "name": "travel-website",
+  "version": "1.0.0",
+  "description": "A travel website facilitating bus travel throughout India with multiple payment methods.",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "travel",
+    "bus",
+    "booking",
+    "payment"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-plugin-react": "^7.27.0"
+  }
+}
